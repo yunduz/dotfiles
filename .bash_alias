@@ -1,3 +1,3 @@
-alis development="cd ~/development"
+alias development="cd ~/development"
 alias repos="cd ~/development/repos"
 
